@@ -9,7 +9,6 @@ git remote add origin <repo url>
 git push -u origin main/master(make actual changes to the git)
 
 
-
 =====merging========
 git add .
 git commit
