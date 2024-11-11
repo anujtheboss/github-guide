@@ -1,30 +1,33 @@
-# github-guide
+### github-guide
+```bash
 rm -rf .git ==Delete Git Version History: All the version history, branches, commit logs, and any tracking of changes will be lost.
 git init
 git add .
 git commit -m"message" (virtually)
-
+```
+```bash
 git remote remove origin == remove current origin 
 git remote add origin <repo url>
 git push -u origin main/master(make actual changes to the git)
+```
 
-
-=====merging========
+## merging
+```bash
 git add .
 git commit
 git checkout main
 git merge anuz
+```
 
-
-====conflict======
+## conflict
+```bash
 git status(to see the conflicted file eg:log/templates/blog/test.html)
 git checkout --theirs blog/templates/blog/test.html
-OR
+```
+# OR
+```bash
 git checkout --ours blog/templates/blog/test.html
 git add blog/templates/blog/test.html
  git commit
-## Github guide
-1.clone the repository
-```bash
-git clone https://github.com/anujtheboss/github-guide.git
 ```
+
