@@ -41,4 +41,6 @@ git add blog/templates/blog/test.html
 | ram  |   3    | science|
 | shyam|   5    |commerce|
 | hari |   6    |english |
+## some pictures
+<img src="https://static.businessinsider.com/image/5484d9d1eab8ea3017b17e29/image.jpg" width='500' />
 
