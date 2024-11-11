@@ -1,4 +1,4 @@
-### github-guide
+# github-guide
 ```bash
 rm -rf .git ==Delete Git Version History: All the version history, branches, commit logs, and any tracking of changes will be lost.
 git init
@@ -24,7 +24,7 @@ git merge anuz
 git status(to see the conflicted file eg:log/templates/blog/test.html)
 git checkout --theirs blog/templates/blog/test.html
 ```
-# OR
+### OR
 ```bash
 git checkout --ours blog/templates/blog/test.html
 git add blog/templates/blog/test.html
