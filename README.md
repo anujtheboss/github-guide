@@ -23,7 +23,7 @@ OR
 git checkout --ours blog/templates/blog/test.html
 git add blog/templates/blog/test.html
  git commit
-##Github guide
+## Github guide
 1.clone the repository
 ```bash
 git clone https://github.com/anujtheboss/github-guide.git
