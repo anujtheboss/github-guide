@@ -35,3 +35,10 @@ git add blog/templates/blog/test.html
 - [installation](#installation)
 - [usage](#usage)
 - [features](#features)
+## the table of information
+| name | rollno | faculty|
+|------|--------|--------|
+| ram  |   3    | science|
+| shyam|   5    |commerce|
+| hari |   6    |english |
+
