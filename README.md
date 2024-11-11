@@ -30,4 +30,8 @@ git checkout --ours blog/templates/blog/test.html
 git add blog/templates/blog/test.html
  git commit
 ```
-
+## a table of contents
+- [about](#about)
+- [installation](#installation)
+- [usage](#usage)
+- [features](#features)
